@@ -1,0 +1,5 @@
+type: module
+name: Scrollable tables
+description: 'Provides a filter to make tables scrollable.'
+package: filter
+core: 8.x

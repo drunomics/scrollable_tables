@@ -1,0 +1,5 @@
+/* Wrapper to make a table scrollable horizontally. */
+.table-wrapper--scrollable {
+  overflow-x: auto;
+  table-layout: fixed;
+}
